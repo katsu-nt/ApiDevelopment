@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstApi", "MyFirstApi\My
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApiDemo", "MinimalApiDemo\MinimalApiDemo.csproj", "{4C33FD7B-AFC7-4B5C-BA63-5E461A3AEF53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationDemo", "ConfigurationDemo\ConfigurationDemo.csproj", "{1B31AFCD-6218-4263-8E2D-ED895AE6956A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviromentDemo", "EnviromentDemo\EnviromentDemo.csproj", "{D0B74E56-C83B-4C01-9CD3-D93BFC16439E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{4C33FD7B-AFC7-4B5C-BA63-5E461A3AEF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C33FD7B-AFC7-4B5C-BA63-5E461A3AEF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C33FD7B-AFC7-4B5C-BA63-5E461A3AEF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B31AFCD-6218-4263-8E2D-ED895AE6956A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B31AFCD-6218-4263-8E2D-ED895AE6956A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B31AFCD-6218-4263-8E2D-ED895AE6956A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B31AFCD-6218-4263-8E2D-ED895AE6956A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B74E56-C83B-4C01-9CD3-D93BFC16439E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B74E56-C83B-4C01-9CD3-D93BFC16439E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B74E56-C83B-4C01-9CD3-D93BFC16439E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B74E56-C83B-4C01-9CD3-D93BFC16439E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
